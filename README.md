@@ -1,5 +1,5 @@
 # Yuuka
-An AI Discord waifu bot named Yuuka that you can talk to through Discord! Yuuka means "Excellent Flower". Yuuka is an AI that is trained on dozens of other anime characters to create the perfect AI Discord waifu.
+An AI Discord waifu bot named Yuuka that you can talk to through Discord! Yuuka means "Excellent Flower". Yuuka is an AI that is trained on dozens of other anime characters to create the perfect AI Discord waifu. 🌺
 
 <div align="center">
   <img src="/assets/yuukaflowerdark.png#gh-light-mode-only" height="200">
